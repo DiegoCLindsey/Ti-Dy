@@ -1,0 +1,27 @@
+{
+  "name": "ti-dy",
+  "version": "1.0.0",
+  "description": "Interactive To-Do lists and other features for tidy and cleaning the house",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoCLindsey/Ti-Dy.git"
+  },
+  "keywords": [
+    "todo",
+    "cleaning",
+    "productivity"
+  ],
+  "author": "dclindsey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoCLindsey/Ti-Dy/issues"
+  },
+  "homepage": "https://github.com/DiegoCLindsey/Ti-Dy#readme",
+  "dependencies": {
+    "firebase": "^9.14.0"
+  }
+}
